@@ -1,3 +1,3 @@
 # Projeto-CRUD---Usuarios-e-Produtos
 
-<img src="https://giphy.com/gifs/CET73BxHOqqiwaTysk/html5" alt="imagem GIF">
+<img src="https://media.giphy.com/media/CET73BxHOqqiwaTysk/giphy.gif" alt="imagem GIF">
