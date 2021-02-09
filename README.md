@@ -1,6 +1,6 @@
 # Projeto-CRUD---Usuarios-e-Produtos
 <h3 align="center">
-<img src="https://media.giphy.com/media/CET73BxHOqqiwaTysk/giphy.gif" alt="imagem GIF" style="text-align: center">
+<img src="https://media.giphy.com/media/CET73BxHOqqiwaTysk/giphy.gif" alt="imagem GIF" style="text-align: center" width="600px">
 </h3>
 > Projeto 100% em Java utilizando JSP, Servlets e JDBC como conexão ao SGBD POSTGRESQL
 
